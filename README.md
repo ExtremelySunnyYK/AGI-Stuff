@@ -1,8 +1,9 @@
 # AGI-Stuff
 
 
-## AGI Repo
+## AGI Repos
 - [Auto GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+- [Baby AGI](https://github.com/yoheinakajima/babyagi)
 
 
 ## Prompt Engineering
